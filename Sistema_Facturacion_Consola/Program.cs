@@ -551,7 +551,7 @@ namespace Sistema_Facturacion_Consola
                 Console.SetCursorPosition(28, 08); Console.Write("DISMINUIR INVENTARIO");
 
                 Console.SetCursorPosition(20, 10); Console.Write("ID Producto....: ");
-                pid = ReadInt();
+                pid = ReadInt(false);
                 if (pid == -1)
                 {
                     Listas.ListaProducto.Desplegar(aproducto, acategoria);
@@ -605,7 +605,7 @@ namespace Sistema_Facturacion_Consola
                 repetir = "1";
                 Console.SetCursorPosition(28, 08); Console.Write("AUMENTAR INVENTARIO");
                 Console.SetCursorPosition(20, 10); Console.Write("ID Producto....: ");
-                pid = ReadInt();
+                pid = ReadInt(false);
                 if (pid == -1)
                 {
                     Listas.ListaProducto.Desplegar(aproducto, acategoria);
