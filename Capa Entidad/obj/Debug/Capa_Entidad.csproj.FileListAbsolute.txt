@@ -1,0 +1,6 @@
+C:\Programas en C#\Sistema_Facturacion_Consola\Capa Entidad\bin\Debug\Capa Entidad.dll
+C:\Programas en C#\Sistema_Facturacion_Consola\Capa Entidad\bin\Debug\Capa Entidad.pdb
+C:\Programas en C#\Sistema_Facturacion_Consola\Capa Entidad\obj\Debug\Capa_Entidad.csproj.AssemblyReference.cache
+C:\Programas en C#\Sistema_Facturacion_Consola\Capa Entidad\obj\Debug\Capa_Entidad.csproj.CoreCompileInputs.cache
+C:\Programas en C#\Sistema_Facturacion_Consola\Capa Entidad\obj\Debug\Capa Entidad.dll
+C:\Programas en C#\Sistema_Facturacion_Consola\Capa Entidad\obj\Debug\Capa Entidad.pdb

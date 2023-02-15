@@ -1,0 +1,11 @@
+C:\Programas en C#\Sistema_Facturacion_Consola\Sistema_Facturacion_Consola\bin\Debug\Sistema_Facturacion_Consola.exe.config
+C:\Programas en C#\Sistema_Facturacion_Consola\Sistema_Facturacion_Consola\bin\Debug\Sistema_Facturacion_Consola.exe
+C:\Programas en C#\Sistema_Facturacion_Consola\Sistema_Facturacion_Consola\bin\Debug\Sistema_Facturacion_Consola.pdb
+C:\Programas en C#\Sistema_Facturacion_Consola\Sistema_Facturacion_Consola\bin\Debug\Capa Entidad.dll
+C:\Programas en C#\Sistema_Facturacion_Consola\Sistema_Facturacion_Consola\bin\Debug\Capa Entidad.pdb
+C:\Programas en C#\Sistema_Facturacion_Consola\Sistema_Facturacion_Consola\obj\Debug\Sistema_Facturacion_Consola.csproj.AssemblyReference.cache
+C:\Programas en C#\Sistema_Facturacion_Consola\Sistema_Facturacion_Consola\obj\Debug\Sistema_Facturacion_Consola.csproj.SuggestedBindingRedirects.cache
+C:\Programas en C#\Sistema_Facturacion_Consola\Sistema_Facturacion_Consola\obj\Debug\Sistema_Facturacion_Consola.csproj.CoreCompileInputs.cache
+C:\Programas en C#\Sistema_Facturacion_Consola\Sistema_Facturacion_Consola\obj\Debug\Sistema_Facturacion_Consola.csproj.CopyComplete
+C:\Programas en C#\Sistema_Facturacion_Consola\Sistema_Facturacion_Consola\obj\Debug\Sistema_Facturacion_Consola.exe
+C:\Programas en C#\Sistema_Facturacion_Consola\Sistema_Facturacion_Consola\obj\Debug\Sistema_Facturacion_Consola.pdb
