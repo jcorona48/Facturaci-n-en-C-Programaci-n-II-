@@ -378,7 +378,7 @@ namespace Sistema_Facturacion_Consola
 
                 acategoria.Add(new Categoria(cid, nombre, cdescrip));
                 Console.SetCursorPosition(20, 24); Console.Write("Categoria Registrada Satisfactoriamente ");
-                Console.SetCursorPosition(20, 26); Console.Write("Desea Ingresar otra Categoria? Si(1) No(Otro) ");
+                Console.SetCursorPosition(20, 26); Console.Write("Desea Ingresar otra Categoria? Si(1) No(Otro): ");
                 repetir = Console.ReadLine();
             } while (repetir == "1");
         }
