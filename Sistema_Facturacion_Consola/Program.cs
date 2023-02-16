@@ -92,19 +92,7 @@ namespace Sistema_Facturacion_Consola
             }
             return encontrado;
         }
-        public static Empleado BuscarEmpleado(string user, string pass, ArrayList Aempleado)
-        {
-            Empleado emp = new Empleado();
-            foreach (Empleado em in Aempleado)
-            {
-                if (user == em.getUser() && pass == em.getPass())
-                {
-                    emp = em;
-                    return emp;
-                }
-            }
-            return emp;
-        }
+
         public static Empleado BuscarEmpleadoID(int ID, ArrayList Aempleado)
         {
             Empleado emp = new Empleado();
@@ -164,7 +152,7 @@ namespace Sistema_Facturacion_Consola
             Console.SetCursorPosition(15, 8); Console.Write("1 - Registrar Categoria de Productos");
             Console.SetCursorPosition(15, 9); Console.Write("2 - Registrar Productos");
             Console.SetCursorPosition(15, 10); Console.Write("3 - Aumentar Inventario");
-            Console.SetCursorPosition(15, 11); Console.Write("4 - Reducir Inventario");
+            Console.SetCursorPosition(15, 11); Console.Write("4 - Reducir Inventario: ");
             Console.SetCursorPosition(15, 12); Console.Write("5 - Consultar Inventario");
             Console.SetCursorPosition(15, 13); Console.Write("6 - Registrar Empleado");
             Console.SetCursorPosition(15, 14); Console.Write("7 - Registrar Venta");
